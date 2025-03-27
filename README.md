@@ -11,10 +11,15 @@
 
 ## 🖥 CLI Usage
 
+For CLI usage install using 
+
+```bash
+npm install -g inspogen
+```
 Once installed, simply run the following command to get a random quote:
 
 ```bash
-inspogen
+quote-gen
 ```
 
 ## 🛠 Tech Stack
