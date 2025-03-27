@@ -1,0 +1,25 @@
+{
+  "name": "inspogen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quotes",
+    "motivational"
+  ],
+  "author": "Md Yousuf Mallik",
+  "license": "MIT",
+  "type": "module",
+  "description": "Your daily dose of motivation at your fingertips! inspogen is a simple and lightweight CLI tool that delivers a random motivational quote whenever you need a boost of inspiration. Whether you're starting your day, tackling a challenging task, or just need some uplifting words, inspogen has you covered.",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "bin": {
+  "quote-gen": "./index.js"
+}
+
+}
+
+
